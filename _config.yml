@@ -7,8 +7,7 @@ minima:
   skin: dark
 show_excerpts: true
 
-author:
-  name: Yellaji Garikina
+author: Yellaji Garikina
 
 # Nav links shown in the site header
 header_pages:
