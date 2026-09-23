@@ -1,7 +1,7 @@
 title: Yellaji Garikina
 description: >-
-  Notes on web, API, mobile and LLM security testing —
-  writeups, methodology, and lessons from pentesting and PortSwigger labs.
+ Five years of penetration testing, distilled into writeups, methodology,
+  and lessons learned — across whatever's worth breaking next.
 theme: minima
 minima:
   skin: dark
