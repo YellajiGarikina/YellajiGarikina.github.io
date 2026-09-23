@@ -1,0 +1,24 @@
+title: Yellaji Garikina
+description: >-
+  Notes on web, API, mobile and LLM security testing —
+  writeups, methodology, and lessons from pentesting and PortSwigger labs.
+theme: minima
+minima:
+  skin: dark
+show_excerpts: true
+
+author:
+  name: Yellaji Garikina
+
+# Nav links shown in the site header
+header_pages:
+  - about.md
+
+markdown: kramdown
+highlighter: rouge
+
+permalink: /:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
