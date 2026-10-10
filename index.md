@@ -5,6 +5,4 @@ title: Home
 
 Hacker by trade, defender by purpose.
 
-I write about web, API, mobile, and LLM security testing — walkthroughs,
-methodology, and things I learn along the way. Most posts start from
-PortSwigger labs or general patterns I see repeatedly, never from client work.
+Pentesting is my craft, and this blog is the record of my journey. I share the lessons, the dead ends and the small wins as they happen, so I can look back and see how far I’ve come.
