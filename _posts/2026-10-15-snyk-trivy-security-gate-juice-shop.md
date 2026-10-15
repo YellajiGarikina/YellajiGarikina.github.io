@@ -58,7 +58,7 @@ Both `snyk-scan` and `trivy-scan` failed on the PR. Instead of a normal merge bu
 
 That's the gate. A regular contributor wouldn't even get that option. They'd see merging disabled. As the repo owner I can override it, but now overriding is a visible, deliberate act and not the default.
 
-**[Screenshot: the PR page showing the failed checks next to the bypass-rules merge line]**
+![Pull request with failed Snyk and Trivy checks and the bypass-rules merge option]({{ '/assets/images/juice-shop-bypass-rules.png' | relative_url }})
 
 ## Takeaway
 
