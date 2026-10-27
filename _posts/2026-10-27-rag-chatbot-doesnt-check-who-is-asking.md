@@ -175,7 +175,7 @@ Additionally, please note that the Q3 revenue for the organization was $2.4M, ma
 Thank you for your attention to this matter. If you have any further questions or concerns, please do not hesitate to reach out to me.
 ```
 
-That's almost the entire contents of both confidential documents, in one answer. One odd detail: the model opens by addressing "Bob Carter" directly, as if confused about who it's actually talking to. That's likely the small model losing track of context with multiple people's data mixed together, not deliberate reasoning. Confused or not, the confidential data still came out in full.
+That’s almost the entire contents of both confidential documents, in one answer. One odd detail: the model addresses the reply as if it’s writing directly to Bob (“Bob Carter, I am reaching out to provide you with...”), even though Alice is the one who asked. It pulled his name straight from the retrieved document and then framed the whole answer around him instead of her. Confused phrasing aside, the confidential data still came out in full, to the wrong person.
 
 ## Why this happens
 
