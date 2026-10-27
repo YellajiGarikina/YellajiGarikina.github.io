@@ -93,7 +93,7 @@ Question: How many holiday days do I get?
 You receive 20 days of paid holiday per year, prorated for part-time staff.
 ```
 
-The answer is correct, 20 days, from the right document. But the retrieved chunks already hint at the problem: the system always returns a fixed number of results, three in this case, and with only a handful of documents in the database, the third slot gets filled by something only loosely related, just because something has to fill it. Here it was a harmless IT contact line. It wouldn't stay harmless for long.
+The answer is correct, 20 days, from the right document. But look closely at the retrieved chunks and the problem is already visible: the system is hardcoded to always return 3 chunks, no matter what. With only four documents in this demo database, it still has to fill that third slot, so two of the three results end up coming from the same loosely-related IT document, just because something has to fill the gap. This time that was a harmless IT contact line. It wouldn’t stay harmless for long.
 
 Then I asked questions that had nothing to do with Alice's own access:
 
