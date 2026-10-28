@@ -12,6 +12,7 @@ author: Find it. Prove it. Write it up.
 # Nav links shown in the site header
 header_pages:
   - about.md
+  - tags.html
 
 markdown: kramdown
 highlighter: rouge
