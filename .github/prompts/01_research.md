@@ -18,8 +18,7 @@ Act as a cybersecurity research analyst. Investigate the proposed article topic 
 6. Describe realistic attack scenarios and their security impact.
 7. Identify detection, prevention, mitigation, and secure configuration guidance.
 8. Note known limitations, disputed claims, uncertainty, and information requiring author verification.
-9. Suggest a practical demonstration only where it can be performed in an owned system or authorized lab.
-10. Record source publication/update dates where available and the date research was checked.
+9. Record source publication/update dates where available and the date research was checked.
 
 ## Required output
 ### 1. Topic and scope
@@ -27,12 +26,11 @@ Act as a cybersecurity research analyst. Investigate the proposed article topic 
 ### 3. Technical explanation
 ### 4. Prerequisites and affected technologies
 ### 5. Attack scenarios and impact
-### 6. Practical lab or demonstration options
-### 7. Detection and mitigation
-### 8. Common misconceptions and limitations
-### 9. Research gaps and author verification questions
-### 10. Suggested article outline
-### 11. Source register
+### 6. Detection and mitigation
+### 7. Common misconceptions and limitations
+### 8. Research gaps and author verification questions
+### 9. Suggested article outline
+### 10. Source register
 
 For each source, provide its title, publisher, URL, publication/update date if available, and the specific claim it supports. Distinguish primary sources from secondary sources.
 
