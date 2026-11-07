@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "MCP Server Security: Tool Poisoning, Prompt Injection, and Why the Model Can't Be Your Access Control"
