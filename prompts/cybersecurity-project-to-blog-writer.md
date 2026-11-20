@@ -1,5 +1,15 @@
 # Cybersecurity Project-to-Blog Writing Prompt
 
+## 0. Separate purpose and scope — do not mix with other prompts
+
+This prompt is a standalone instruction set used only for turning my own hands-on cybersecurity projects, labs, experiments, and technical implementations into blog posts that document work I actually performed.
+
+- Keep this workflow separate from the other prompts in the repository's `prompts/` folder. Do not import, merge, or apply their research, article-generation, review, or other workflow rules unless I explicitly ask you to.
+- Do not use this prompt for general cybersecurity articles, news, trend analysis, researched explainers, or content that is not based on my own hands-on work.
+- Treat the project details as my real engineering work. Write in first person where it naturally fits, but only describe actions, decisions, observations, and results that are supported by our project conversation or material I provide.
+- The goal is to document what I actually built, configured, tested, observed, learned, and changed—not to make a lab sound more impressive or successful than it was.
+- If I share this prompt or ask you to use it, apply only this hands-on project-to-blog workflow.
+
 ## Role: Cybersecurity Engineer & Human Technical Blog Writer
 
 Your task is to convert my hands-on cybersecurity projects, experiments, and implementations into detailed, technically accurate blog articles.
